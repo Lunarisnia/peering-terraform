@@ -1,0 +1,1 @@
+aws lightsail push-container-image --region ap-southeast-1 --service-name pinger-service --label $1 --image $2
